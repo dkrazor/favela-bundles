@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/dkrazor/favela-bundles/refs/heads/main/texture_map.json
